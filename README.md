@@ -1,0 +1,2 @@
+# PWA_MD19_VT
+Progressive Web Applications: Text Editor This is module 19 for the University of Washington Coding Boot camp that is/ was due 08/24. The main objective of this assignment is to build a text editor that runs in the browser. The app is  a single-page application that meets the PWA criteria, additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline. 
